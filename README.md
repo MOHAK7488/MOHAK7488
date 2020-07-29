@@ -1,4 +1,4 @@
-[![Mohak Goel header](https://github.com/MOHAK7488/MOHAK7488/blob/master/Mockup-frame-image-avatar-PixTeller.mp4?raw=true)](https://www.linkedin.com/in/mohak-goel-0b5b90147/)
+[![Mohak Goel header](https://github.com/MOHAK7488/MOHAK7488/blob/master/MOHAK7488/Mockup-frame-image-avatar-PixTeller.mp4?raw=true)](https://www.linkedin.com/in/mohak-goel-0b5b90147/)
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 <p align="center">
