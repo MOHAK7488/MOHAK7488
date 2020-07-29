@@ -1,4 +1,4 @@
-[![sayed mohd kazim mehdi header](https://github.com/MOHAK7488/MOHAK7488/blob/master/Mockup-frame-image-avatar-PixTeller.mp4?raw=true)](https://www.linkedin.com/in/mohak-goel-0b5b90147/)
+[![Mohak Goel header](https://github.com/MOHAK7488/MOHAK7488/blob/master/Mockup-frame-image-avatar-PixTeller.mp4?raw=true)](https://www.linkedin.com/in/mohak-goel-0b5b90147/)
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 <p align="center">
@@ -36,7 +36,7 @@ I'm an ambitious programmer who holds to strengthen skills rather than acquiring
 #### 📧 Reach out to me here: mohakgoel1@gmail.com
 <img src="https://github-readme-stats.vercel.app/api?username=MOHAK7488&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=242424" width="100%"/>
 
-![kazim github stats](https://github-readme-stats.vercel.app/api?username=MOHAK7488&hide=["issues"]&show_icons=true)
+![Mohak github stats](https://github-readme-stats.vercel.app/api?username=MOHAK7488&hide=["issues"]&show_icons=true)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MOHAK7488" alt="MOHAK7488" /> </p>
 
