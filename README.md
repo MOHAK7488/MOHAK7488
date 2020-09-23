@@ -12,7 +12,7 @@ I'm an ambitious programmer who holds to strengthen skills rather than acquiring
 -✅ Languages: Core Java, Python<br>
 -✅ Frameworks/SDK: Django, J2EE<br>
 -✅ Tools & Technologies: Github, IBM Watson<br>
--✅ Cloud: Oracle Cloud<br>
+-✅ Cloud: Microsoft, Oracle<br>
 
 
 **Languages and Tools:**
